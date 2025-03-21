@@ -1,9 +1,3 @@
-# Student_1: Michael Kaminer , ID: 336533245
-# Student_2: Avitar Cohen    , ID: 207697392
-# Student_3: Tal Gagoshvili  , ID: 207775552
-# Student_4: Ron Dabush      , ID: 307861567
-
-
 import re
 
 
